@@ -1,5 +1,8 @@
 {
-    "name": "easyrdf/easyrdf",
+    "name": "easyrdf@iglue/easyrdf",
+    "replace": {
+	"easyrdf/easyrdf": "0.9.1"
+    },
     "description": "EasyRdf is a PHP library designed to make it easy to consume and produce RDF.",
     "version": "0.9.1",
     "type": "library",
